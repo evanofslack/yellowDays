@@ -1,7 +1,7 @@
 # yellowDays
 ## Screenshots
-![Home](./home)
-![Playlist](./playlist)
+![Home](./home.png)
+![Playlist](./playlist.png)
 
 
 #### About
