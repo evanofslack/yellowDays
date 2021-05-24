@@ -1,4 +1,4 @@
-@@ -1,30 +0,0 @@
+
 # yellowDays
 
 #### A simple theme for spotify
