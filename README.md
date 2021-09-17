@@ -11,7 +11,7 @@
 
 
 ## About
-A simple spicetify theme with slight tweaks to the exsisting [Onepunch](https://github.com/morpheusthewhite/spicetify-themes/tree/v2/Onepunch) theme. 
+A simple spicetify theme with slight tweaks to [Onepunch](https://github.com/morpheusthewhite/spicetify-themes/tree/v2/Onepunch) theme. 
 
 ## Usage
 Install [spicetify](https://github.com/khanhas/spicetify-cli), migrate to /spicetify_data/themes, and copy these files over. To install, run the following in terminal: 
